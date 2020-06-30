@@ -1,7 +1,7 @@
-# **ESA PERRA QUERIA QUE LE METIERA LA VERGA**
+# **PRUEBAS DE PYTHON**
 
-- Mis putas son mejores
-- Las llenare de semen
-- Soy un sociopata
+- Avance lineal
+- Marcar objetivos
+- practicas de formato
 
-_Estas son las practicas de python las usare para domnar el mundo y usar a la puta que me de la gana como la flaca de pezones parados y buen culo que vi en la mañana._
+_Este solo es un parrafo comun y corriente_
