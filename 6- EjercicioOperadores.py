@@ -13,5 +13,5 @@ print("big_list contiene %d objetos" % len(big_list))
 if x_list.count(x) == 10 and y_list.count(y) == 10:
     print("almost there....")
 
-if big_list.count(x) == 10 and big_list.count(y) == 10:
+if big_list.count(x) == 10 and big_list.couºnt(y) == 10:
     print("great")
