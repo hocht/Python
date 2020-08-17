@@ -35,5 +35,4 @@ if s.startswith("hola"):
 
 # Split the string into three separate strings,
 # each containing only a word
-print("Split the words of the string: %s" % s.split(" ",2))
-
+print("Split the words of the string: %s" % s.split(" ", 2))
